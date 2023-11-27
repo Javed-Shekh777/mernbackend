@@ -1,0 +1,9 @@
+FirstName,LastName,Email,Phone,Gender,Status,Location,DateCreated,DateUpdated
+Javed,Shekh,javed@gmail.com,6307354106,Male,Active,Mumbai,Sun Nov 26 2023 07:50:23 GMT+0530 (India Standard Time),_
+Future,Verma,future@gmail.com,4512781210,Male,Active,Mumbai,Sun Nov 26 2023 09:05:27 GMT+0530 (India Standard Time),Mon Nov 27 2023 11:14:37 GMT+0530 (India Standard Time)
+Pani,Puri,pani@gmail.com,4152415241,Female,InActive,Hariyana,Mon Nov 27 2023 11:13:22 GMT+0530 (India Standard Time),Mon Nov 27 2023 05:54:23 GMT+0530 (India Standard Time)
+Adil,Shekh,adil@gmail.com,9956421087,Male,InActive,Jammu Kashmir,Mon Nov 27 2023 05:48:03 GMT+0530 (India Standard Time),Mon Nov 27 2023 05:51:15 GMT+0530 (India Standard Time)
+Brijesh,Kumar,brijesh@gmail.com,4512154451,Male,Active,Mumbai,Mon Nov 27 2023 11:02:06 GMT+0530 (India Standard Time),_
+Zakir,Khan,zakir@gmail.com,9856231475,Male,InActive,Jharkhand,Mon Nov 27 2023 11:03:01 GMT+0530 (India Standard Time),_
+Vimlesh,Prajapati,vimlesh@gmail.com,2356894172,Male,Active,KaalaPani,Mon Nov 27 2023 11:04:37 GMT+0530 (India Standard Time),_
+Meher,Shekh,meher@gmail.com,9845123075,Female,Active,Heart,Mon Nov 27 2023 11:11:52 GMT+0530 (India Standard Time),Mon Nov 27 2023 11:12:49 GMT+0530 (India Standard Time)

@@ -88,7 +88,7 @@ exports.userget = async (req,res)=>{
         .limit(ITEM_PER_PAGE)
         .skip(skip);
 
-        console.log("DDD : ",userData)
+        
 
         const pageCount = Math.ceil(count/ITEM_PER_PAGE); 
          
